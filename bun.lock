@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "dogs",
+      "name": "threlte-getting-started",
       "dependencies": {
         "@threlte/core": "^8.5.3",
         "@threlte/extras": "^9.13.0",
